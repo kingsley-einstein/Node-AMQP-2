@@ -1,1 +1,1 @@
-Second part of a microservice built with Express and AMQP 
+Second part of microservices built with Express and AMQP 
